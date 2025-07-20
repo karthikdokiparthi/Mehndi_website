@@ -41,7 +41,7 @@ const Navbar = () => {
                     <div className="navbar-brand">
                         <h1 className="logo">
                             <a href='#home'>
-                                <span className="logo-highlight">𓃦 Vijju</span> Mehandi
+                                <span className="logo-highlight">꧁🦚꧂ Vijju</span> Mehandi
                             </a>
                         </h1>
                     </div>

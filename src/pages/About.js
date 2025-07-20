@@ -1,5 +1,6 @@
 import React from 'react';
 import './About.css';
+import peacock from '../assets/peacock-icon.png';
 
 const About = () => {
     return (
@@ -13,7 +14,9 @@ const About = () => {
                         <div className="main-circle">
                             <div className="circle-content">
                                 <div className="symbol-container">
-                                    <div className="decorative-icon">𓃦</div>
+                                    <div className="decorative-icon">
+                                        <img src={peacock} alt="Henna Art Symbol" />
+                                    </div>
                                     <div className="symbol-decoration"></div>
                                 </div>
                                 <div className="circle-text">Vijju Mehandi</div>
