@@ -35,7 +35,7 @@ const About = () => {
                         </div>
 
                         <p className="about-text">
-                            With over a decade of experience in the art of mehndi, Vijju brings creativity, precision, and passion to every design. Specializing in both traditional and contemporary styles, she transforms hands and feet into stunning canvases of intricate patterns.
+                            With over a 3+ year's of experience in the art of mehndi, Vijju brings creativity, precision, and passion to every design. Specializing in both traditional and contemporary styles, she transforms hands and feet into stunning canvases of intricate patterns.
                         </p>
 
                         <div className="artistic-quote">
@@ -46,7 +46,7 @@ const About = () => {
                         </div>
 
                         <p className="about-text">
-                            Her work is characterized by attention to detail, smooth application, and long-lasting results that beautifully complement any celebration. Whether it's your wedding day, a special festival, or a personal celebration, Vijju's artistic touch ensures a memorable mehndi experience.
+                            Her work is characterized by attention to detail, and long-lasting results that beautifully complement any celebration. Whether it's your wedding day, a special festival, or a personal celebration, Vijju's artistic touch ensures a memorable mehndi experience.
                         </p>
 
                         <div className="signature">

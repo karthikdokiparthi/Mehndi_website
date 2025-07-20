@@ -24,8 +24,7 @@ const Hero = () => {
                         </div>
 
                         <p className="hero-description">
-                            Professional mehndi designs by Vijju, bringing elegance and tradition to your special moments with intricate patterns and flawless application.
-                        </p>
+                            Professional mehndi designs by Vijju, bringing elegance and tradition to your special moments.</p>
 
                         <div className="hero-features">
                             <div className="feature">
