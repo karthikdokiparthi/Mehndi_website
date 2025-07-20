@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import './Gallery.css';
-import { FaTimes, FaSearch, FaHeart, FaRegHeart } from 'react-icons/fa';
+import { FaSearch, FaHeart, FaRegHeart } from 'react-icons/fa';
 
 
 import arabic1 from '../assets/arabic1.jpg';
