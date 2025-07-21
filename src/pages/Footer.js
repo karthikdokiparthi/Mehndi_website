@@ -25,7 +25,7 @@ const Footer = () => {
                             Professional mehndi services for weddings, engagements, baby showers, and all celebrations. Bringing artistry and tradition to your special moments.
                         </p>
                         <div className="social-icons">
-                            <a href="https://instagram.com/vijjumehandi" aria-label="Instagram" className="social-icon">
+                            <a href="https://www.instagram.com/vijju_mehandi_artist?igsh=eGJsYXJubGxycmw=" aria-label="Instagram" className="social-icon">
                                 <FaInstagram />
                             </a>
                             <a href="https://facebook.com/vijjumehandi" aria-label="Facebook" className="social-icon">
